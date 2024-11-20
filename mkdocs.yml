@@ -1,2 +1,7 @@
 site_name: adaptiveFDA
-theme: readthedocs
+theme: material
+plugins:
+  - search
+  - redirects:
+      redirect_maps:
+        index.md: index.html
