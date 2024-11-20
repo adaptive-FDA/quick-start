@@ -6,7 +6,11 @@ plugins:
       redirect_maps:
         index.md: index.html
 nav:
-  - Adaptive Functional Data Analysis: index.md
+  - Home: index.md
   - FDA research at CREST: crest_research.md
   - Introduction to FDA:
     - Paradigm shift: intro_paradigm.md
+    - Fields of application: intro_fields_app.md
+    - Use cases: intro_usecases.md
+  - R package:
+    - Introduction: pkg_intro.md
