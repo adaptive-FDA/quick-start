@@ -1,15 +1,39 @@
-name: build
+name: Build and Deploy MkDocs
+
 on:
   push:
     branches:
-      - main
+      - main  # Remplacez par la branche que vous souhaitez surveiller
+
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
+
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
-        with:
-          python-version: 3.x
-      - run: pip install mkdocs mkdocs-material mkdocs-redirects
-      - run: mkdocs gh-deploy --force --clean --verbose
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Remplacez par la version de Python que vous utilisez
+
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install mkdocs
+
+    - name: Build documentation
+      run: mkdocs build
+
+    - name: Copy documentation to site directory
+      run: |
+        mkdir -p site
+        cp -r site/* site/
+
+    - name: Deploy to GitHub Pages
+      if: github.ref == 'refs/heads/main'  # Remplacez par la branche que vous souhaitez déployer
+      uses: peaceiris/actions-gh-pages@v3
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        publish_dir: ./site
