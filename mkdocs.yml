@@ -5,3 +5,12 @@ plugins:
   - redirects:
       redirect_maps:
         index.md: index.html
+nav:
+  - Home: index.md
+  - Intro: introduction.md
+  #- User Guide:
+  #  - Writing your docs: writing-your-docs.md
+  #  - Styling your docs: styling-your-docs.md
+  #- About:
+  #  - License: license.md
+  #  - Release Notes: release-notes.md
