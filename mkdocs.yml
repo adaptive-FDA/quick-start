@@ -1,4 +1,4 @@
-site_name: adaptiveFDAAAAAAAAAAAAAAAAAA
+site_name: adaptiveFDA
 theme: material
 plugins:
   - search
