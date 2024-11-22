@@ -8,13 +8,23 @@ plugins:
         'fr/index.md': 'fr/index.md'
 nav:
   - Home: index.md
-  - FDA research at CREST: crest_research.md
+  - FDA research at CREST:
+      - English: en/crest_research.md
+      - Français: fr/crest_research.md
   - Introduction to FDA:
-    - Paradigm shift: intro_paradigm.md
-    - Fields of application: intro_fields_app.md
-    - Use cases: intro_usecases.md
+    - Paradigm shift:
+      - English: en/intro_paradigm.md
+      - Français: fr/intro_paradigm.md
+    - Fields of application:
+      - English: en/intro_fields_app.md
+      - Français: fr/intro_fields_app.md
+    - Use cases:
+      - English: en/intro_usecases.md
+      - Français: fr/intro_usecases.md
   - R package:
-    - Introduction: pkg_intro.md
+    - Introduction:
+      - English: en/pkg_intro.md
+      - Français: fr/pkg_intro.md
 extra:
   alternate:
     - name: English
