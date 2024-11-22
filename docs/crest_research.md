@@ -1,5 +1,7 @@
 # FDA research at CREST
 
+| Titles                                                                               | Authors                                                   | Date           | Link   |
+|--------------------------------------------------------------------------------------|-----------------------------------------------------------|----------------|---------------------------------------|
 | Adaptive estimation for Weakly Dependent Functional Times Series                     | Hassan Maissoro, Valentin Patilea, Myriam Vimond          | March 2024     | https://arxiv.org/abs/2403.13706 |
 | Learning the regularity of multivariate functional data                              | Omar Kassi, Nicolas Klutchnikoff, Valentin Patilea        | July 2023      | https://arxiv.org/abs/2307.14163 |
 | Adaptive functional principal components analysis                                    | Sunny G. W. Wang, Valentin Patilea, Nicolas Klutchnikoff  | June 2023      | https://arxiv.org/abs/2306.16091 |
