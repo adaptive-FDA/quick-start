@@ -3,9 +3,7 @@ theme: material
 plugins:
   - search
 nav:
-  - Home: 
-      - English: en/index.md
-      - Français: fr/index.md
+  - Home: index.md
   - FDA research at CREST:
       - English: en/crest_research.md
       - Français: fr/crest_research.md
@@ -26,8 +24,8 @@ nav:
 extra:
   alternate:
     - name: English
-      link: /en/ 
+      link: /quick-start/en/ 
       lang: en
     - name: Français
-      link: /fr/
+      link: /quick-start/fr/
       lang: fr
