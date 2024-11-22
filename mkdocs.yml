@@ -2,10 +2,6 @@ site_name: adaptiveFDA
 theme: material
 plugins:
   - search
-  - redirects:
-      redirect_maps:
-        'index.md': 'en/index.md'
-        'fr/index.md': 'fr/index.md'
 nav:
   - Home: index.md
   - FDA research at CREST:
