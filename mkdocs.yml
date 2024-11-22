@@ -5,6 +5,7 @@ plugins:
   - redirects:
       redirect_maps:
         'index.md': 'en/index.md'
+        'fr/index.md': 'fr/index.md'
 nav:
   - Home: index.md
   - FDA research at CREST: crest_research.md
