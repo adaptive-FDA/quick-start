@@ -6,12 +6,12 @@
     Introduction au package
     Des exemples d'utilisation du package
 
-# De premières illustrations
+## adaptiveFDA in a few illustration
 
-    Non commentées illustrant à quel point l'adaptiveFDA, c'est badass
+    Illustrations peu/non commentées illustrant à quel point l'adaptiveFDA, c'est badass
     C'est juste pour ajouter du visuel
 
-# Pré-introduction à la FDA
+## A quick introduction to FDA and adaptiveFDA
 
     Qu'est ce que l'analyse des données fonctionnelles ?
     Qu'est ce que l'analyse des données fonctionnelles adaptatives ?
@@ -23,8 +23,17 @@
         Prendre en compte toute la donnée
         Capter les irrégularités des courbes
 
-# Les acteurs de ce projet
+## Project stakeholders
 
-    CREST ENSAI
-    CREST ENSAE
-    DATASTORM
+### CREST ENSAI
+
+...
+
+### CREST ENSAE
+
+...
+
+### DATASTORM
+
+...
+
