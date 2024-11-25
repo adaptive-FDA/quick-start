@@ -1,17 +1,30 @@
-# Welcome to MkDocs
+# adaptiveFDA : Quick-Start
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Quick-Start to adaptiveFDA theory and package
 
-## Commands
+    Brève introduction à l'adaptiveFDA
+    Introduction au package
+    Des exemples d'utilisation du package
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+# De premières illustrations
 
-## Project layout
+    Non commentées illustrant à quel point l'adaptiveFDA, c'est badass
+    C'est juste pour ajouter du visuel
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# Pré-introduction à la FDA
+
+    Qu'est ce que l'analyse des données fonctionnelles ?
+    Qu'est ce que l'analyse des données fonctionnelles adaptatives ?
+    Promesses de la théorie des adaptiveFDA
+        Sur quels types de données la FDA est pertinente (image, courbe, etc)
+        Etudier des données sans l'obstacle de la grande dimension (exemple : chroniques)
+    Promesses de la théorie des adaptiveFDA sur les données temporelles
+        Alternative à la théorie statistiques des séries temporelles
+        Prendre en compte toute la donnée
+        Capter les irrégularités des courbes
+
+# Les acteurs de ce projet
+
+    CREST ENSAI
+    CREST ENSAE
+    DATASTORM
