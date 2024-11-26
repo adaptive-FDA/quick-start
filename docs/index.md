@@ -2,9 +2,11 @@
 
 ## Quick-Start to adaptiveFDA theory and package
 
-    Brève introduction à l'adaptiveFDA
-    Introduction au package
-    Des exemples d'utilisation du package
+You are probably using methods like time series theory, dimensionality reduction, or neural networks today. The techniques provided by adaptiveFDA could help you **better leverage the high dimensionality** of _temporal data_ or _images_, for example.
+
+This project aims to quickly introduce you to adaptiveFDA, highlighting the **challenges**, usage **methods**, and **benefits** through short paragraphs and visualizations.
+
+With this documentation, there's **no need to fully understand the scientific papers** on the subject! We hope it will enable you to quickly start a project using adaptiveFDA, thanks to an overview of the package and concrete examples.
 
 ## adaptiveFDA in a few illustration
 
