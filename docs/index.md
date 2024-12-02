@@ -35,5 +35,7 @@ CREST is a joint interdisciplinary unit made up of researchers and teachers from
 
 ### DATASTORM
 
-...
+Datastorm provides data expertise and services to businesses and public organizations.
+
+Its unique model combines the engineering of a team of data scientists with the scientific expertise of researchers from ENSAE Paris, ENSAI, associated laboratories of the Institut Polytechnique de Paris, and other specialized research laboratories.
 
