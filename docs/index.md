@@ -10,8 +10,8 @@ With this documentation, there's **no need to fully understand the scientific pa
 
 ## adaptiveFDA in a few illustration
 
-    Illustrations peu/non commentées illustrant à quel point l'adaptiveFDA, c'est badass
-    C'est juste pour ajouter du visuel
+- GIF: Visualisation d'une précision sur une journée (25%, 50%, 75%)
+- GIF: Visualisation d'une Clustering (2 gros, 3, 4 gros)
 
 ## A quick introduction to FDA and adaptiveFDA
 
