@@ -27,13 +27,11 @@ With this documentation, there's **no need to fully understand the scientific pa
 
 ## Project stakeholders
 
-### CREST ENSAI
+### CREST ENSAI-ENSAE
 
-...
+The Center for Research in Economics and Statistics (CREST) is a French scientific research institution specialising in quantitative methods applied to the social sciences.
 
-### CREST ENSAE
-
-...
+CREST is a joint interdisciplinary unit made up of researchers and teachers from the CNRS, GENES ,the Economics Department of École polytechnique and the SES department of Télécom Paris. Its activities are physically located in the ENSAE Paris building on the Palaiseau campus of Institut Polytechnique de Paris and on the Ker-Lann campus of ENSAI Rennes.
 
 ### DATASTORM
 
