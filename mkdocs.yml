@@ -14,3 +14,4 @@ nav:
     - Use cases: intro_usecases.md
   - R package:
     - Introduction: pkg_intro.md
+  - Glossary: glossary.md
